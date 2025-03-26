@@ -12,10 +12,3 @@ Ensure you have the following installed:
 - Python 3.x
 - Pygame (`pip install pygame`)
 
-## Running the Simulation
-### For GUI:
-```sh
-pygame_main.py
-### Console Version:
-```sh
-python main.py
